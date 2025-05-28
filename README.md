@@ -1,16 +1,3 @@
-# hellow
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Esse é primeiro app em flutter que vou estar colocando no Github. Como parte também, da tarefa do Bootcamp DIO. 
+Descrevendo o app:
+Ele é tem um botão centralizado escrito "click here!". E quando o usuário interagi com ele, a cor de fundo muda, para verde e tem uma mensagem centralizada escrita "Hello Friend!"
